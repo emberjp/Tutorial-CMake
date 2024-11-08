@@ -1,0 +1,3 @@
+/home/emerson/projects/c/ed2/build/CMakeFiles/hello.dir
+/home/emerson/projects/c/ed2/build/CMakeFiles/edit_cache.dir
+/home/emerson/projects/c/ed2/build/CMakeFiles/rebuild_cache.dir
